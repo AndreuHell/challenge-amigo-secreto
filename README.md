@@ -30,7 +30,7 @@ Se você tiver dúvidas ou precisar de ajuda com o projeto, você pode consultar
 
 ## Autores do Projeto
 
-- **Autor Principal:** [Seu Nome](https://github.com/AndreuHell)
+- **Autor Principal:** [AndreuHell](https://github.com/AndreuHell)
 ---
 
 Este README foi criado para fornecer uma visão geral rápida e fácil sobre como utilizar e entender o projeto "Amigo Secreto" do desafio da Alura.

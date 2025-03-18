@@ -1,4 +1,4 @@
-# Challenge Alura - Amigo Secreto
+#<h1 align="center"> Challenge Alura - Amigo Secreto </h1>
 
 ## Descrição do Projeto
 

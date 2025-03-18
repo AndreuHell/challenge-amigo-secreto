@@ -1,6 +1,6 @@
-#<h1 align="center"> Challenge Alura - Amigo Secreto </h1>
+<h1 align="center"> Challenge Alura - Amigo Secreto </h1>
 
-## Descrição do Projeto
+# Descrição do Projeto
 
 Este projeto é uma aplicação simples desenvolvida para realizar sorteios de "Amigo Secreto". O objetivo principal é permitir que os usuários insiram os nomes de seus amigos em uma lista e, ao final, sorteiem aleatoriamente quem será o "amigo secreto" de cada pessoa. A aplicação é interativa e foi criada com o intuito de facilitar a organização de eventos de amigo secreto, trazendo praticidade e diversão.
 

@@ -1,6 +1,3 @@
-Aqui está o conteúdo em formato Markdown para ser inserido diretamente no arquivo `README.md` do seu repositório no GitHub:
-
-```markdown
 # Challenge Alura - Amigo Secreto
 
 ## Descrição do Projeto
@@ -33,12 +30,7 @@ Se você tiver dúvidas ou precisar de ajuda com o projeto, você pode consultar
 
 ## Autores do Projeto
 
-- **Autor Principal:** [Seu Nome](https://github.com/seu-username)
-- **Mentor:** [Mentor Alura](https://www.alura.com.br)
-
+- **Autor Principal:** [Seu Nome](https://github.com/AndreuHell)
 ---
 
 Este README foi criado para fornecer uma visão geral rápida e fácil sobre como utilizar e entender o projeto "Amigo Secreto" do desafio da Alura.
-```
-
-Copie e cole esse código no seu arquivo `README.md` no GitHub. Lembre-se de substituir os links do seu nome e do mentor para os correspondentes reais.
